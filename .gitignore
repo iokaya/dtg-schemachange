@@ -1,1 +1,5 @@
 folder*/
+
+__pycache__
+
+logs/

@@ -1,0 +1,9 @@
+name: dtg-schemachange
+dependencies:
+  - python=3.9
+  - pip
+  - watchdog
+  - jinja2
+  - pyyaml
+  - pytest
+  - snowflake-connector-python

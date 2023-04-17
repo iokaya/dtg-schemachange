@@ -4,6 +4,4 @@ dependencies:
   - pip
   - watchdog
   - jinja2
-  - pyyaml
   - pytest
-  - snowflake-connector-python
